@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋
-***
 #### Welcome to my page, 
 - 🏫 I’m currently Studying at [**University Of Darussalam Gontor**](https://unida.gontor.ac.id/)
 - 👩‍💻 I’m currently learning [**Laravel Framework**](https://laravel.com/)
@@ -51,10 +50,6 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
- 
-
-
 
 #####
 <div align="center"> <b>Visitor</b>
@@ -67,8 +62,6 @@ Here are some ideas to get you started:
 ### 🕹️ Play Game With Me
 
 <img src="https://raw.githubusercontent.com/DeviaDev/DeviaDev/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
