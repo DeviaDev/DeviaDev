@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋
+****
 #### Welcome to my page, 
 - 🏫 I’m currently Studying at [**University Of Darussalam Gontor**](https://unida.gontor.ac.id/)
 - 👩‍💻 I’m currently learning [**Laravel Framework**](https://laravel.com/)
  - 🤝 I’m looking to collaborate on **Data Science or Web Development**
 
 #### Thanks for visiting I'd like to connect
-[![language](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/devianestnarendra2/) [![language](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devianest-narendra-003709291/)
+[![language](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/devianestnarendra2/) [![language](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devianest-narendra-003709291/) [![email](https://skillicons.dev/icons?i=gmail)](mailto:devianestnarendra@gmail.com)
 
 ***
 
@@ -39,36 +40,30 @@ Here are some ideas to get you started:
 
 ***
 
-### 🔥My Statistic Github
+### 📊 My Statistic Github
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DeviaDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+#### 🔥Visitor
+<img src="https://profile-counter.glitch.me/DeviaDev/count.svg?"  />
 
-![Devianest Narendra GitHub stats](https://github-readme-stats.vercel.app/api?username=DeviaDev&show_icons=true&theme=radical) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeviaDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+#####
+
+![](https://github-readme-stats.vercel.app/api?username=DeviaDev&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DeviaDev&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviaDev&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-###
+#### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DeviaDev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+
+#### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DeviaDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 #####
-<div align="center"> <b>Visitor</b>
-</div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DeviaDev/count.svg?"  />
-</div>
 
-***
+****
 ### 🕹️ Play Game With Me
 
 <img src="https://raw.githubusercontent.com/DeviaDev/DeviaDev/output/snake.svg" alt="Snake animation" />
-
-
-
-
-
-
-
-
-
 
