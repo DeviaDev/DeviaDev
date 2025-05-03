@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there 👋
-#### Welcome to my page, 
+##### Welcome to my page, 
 - 🏫 I’m currently Studying at [**University Of Darussalam Gontor**](https://unida.gontor.ac.id/)
 - 👩‍💻 I’m currently learning [**Laravel Framework**](https://laravel.com/)
-- 🤝 I’m looking to collaborate on **Data Science or Web Development**
+ - 🤝 I’m looking to collaborate on **Data Science or Web Development**
 
-#### Thanks for visiting I'd like to connect below
-
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/devianestnarendra2/) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devianest-narendra-003709291/)
+##### Thanks for visiting I'd like to [<ins>connect</ins>](https://www.linkedin.com/in/devianest-narendra-003709291/)
  
 
 ### Language and Tools
