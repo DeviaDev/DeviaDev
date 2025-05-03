@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
+# Hi there 👋
+***
 #### Welcome to my page, 
 - 🏫 I’m currently Studying at [**University Of Darussalam Gontor**](https://unida.gontor.ac.id/)
 - 👩‍💻 I’m currently learning [**Laravel Framework**](https://laravel.com/)
  - 🤝 I’m looking to collaborate on **Data Science or Web Development**
 
 #### Thanks for visiting I'd like to connect
-[![language](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/devianestnarendra2/) [![language](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devianest-narendra-003709291/) 
+[![language](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/devianestnarendra2/) [![language](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devianest-narendra-003709291/)
+
+***
 
 ### 🛠 Language and Tools 
 
@@ -35,7 +38,7 @@ Here are some ideas to get you started:
 <!-- ### Skill
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=black" /> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> -->
 
-
+***
 
 ### 🔥My Statistic Github
 
@@ -60,8 +63,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/DeviaDev/count.svg?"  />
 </div>
 
-##
-
+***
 ### 🕹️ Play Game With Me
 
 <img src="https://raw.githubusercontent.com/DeviaDev/DeviaDev/output/snake.svg" alt="Snake animation" />
